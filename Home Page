@@ -1,0 +1,37 @@
+<!--I can probably copy and paste from my computer for images, and use the "find" feature to change everything needed at the start-->
+<!DOCTYPE html>
+<head><title>Creaturing Comics</title></head>
+<body> 
+<div class ="container" >
+<div style="background: Bisque;">
+<body style="background-color:OldLace;">
+<center>
+<!--the header buttons-->
+</body>
+</html>
+<a href ="home page"><img src="file:///C:/Users/candy/Pictures/Pictures/Art/other%20ocs/comic%20project/site/home%20logo.png" alt="home" width="100"><a href ="about"><img src="file:///C:/Users/candy/Pictures/Pictures/Art/other%20ocs/comic%20project/site/about%20logo.png" alt="about" width="100"><a href ="news"><img src="file:///C:/Users/candy/Pictures/Pictures/Art/other%20ocs/comic%20project/site/NEWS%20logo.png" alt="news" width="100"><a href ="new reader"><img src="file:///C:/Users/candy/Pictures/Pictures/Art/other%20ocs/comic%20project/site/new%20reader%20logo.png" alt="new_reader" width="100">
+<!--the header-->
+  <a href ="home page"><img class="full bleed" alt="header" src="file:///C:/Users/candy/Pictures/Pictures/Art/other%20ocs/comic%20project/site/banner2023.png" width="1000"></a>
+  <!--newest page logo and newest page-->
+  <img class=" alt="newest_page_logo" src="file:///C:/Users/candy/Pictures/Pictures/Art/other%20ocs/comic%20project/site/logo_newestpage.png" width="1000"> 
+    <img class=" alt="newest_page" src="file:///C:/Users/candy/Pictures/Pictures/Art/other%20ocs/comic%20project/pages/Side%20Chapter%201/pg40.png"> 
+    <br></br>
+    </div>
+    <center>
+   <br></br>
+   <!--comic logos and their newest pages-->
+      <img class=" alt="long_form_comics" src="file:///C:/Users/candy/Pictures/Pictures/Art/other%20ocs/comic%20project/site/long%20form%20comics.png" width="1000">
+         <br></br>
+    <a href ="10kyc"><img class=" alt="10kyc_logo" src="file:///C:/Users/candy/Pictures/Pictures/Art/other%20ocs/comic%20project/site/logo_10kyc%202%20proper%20sizing.png" width="300"><a href ="lufd"><img class=" alt="lufd_logo" src="file:///C:/Users/candy/Pictures/Pictures/Art/other%20ocs/comic%20project/site/lufd_logo.png" width="300"><a href ="caterwaul"><img class=" alt="caterwaul_logo" src="file:///C:/Users/candy/Pictures/Pictures/Art/other%20ocs/comic%20project/site/logo_caterwaul%202%20proper%20sizing.png" width="300"> </a>
+    <br></br>
+       <a href="10kyc ch 10"><img class=" alt="current_page" src="file:///C:/Users/candy/Pictures/Pictures/Art/current10kycchapter.png" width="300"><a href="lufd"><img class=" alt="current_page" src="file:///C:/Users/candy/Pictures/Pictures/Art/currentlufdchapter.png" width="300"><a href="caterwaul day 13"><img class=" alt="current_page" src="file:///C:/Users/candy/Pictures/Pictures/Art/currentcaterwaulchapter.png" width="300">
+        <br></br>
+        <!--archive-->
+         <a href="10kyc"><img class=" alt="archive 10kyc" src="file:///C:/Users/candy/Pictures/Pictures/Art/other%20ocs/comic%20project/site/start%20reading.png" width="300"><a href="lufd"><img class=" alt="archive lufd" src="file:///C:/Users/candy/Pictures/Pictures/Art/other%20ocs/comic%20project/site/start%20reading.png" width="300"><a href="caterwaul"><img class=" alt="archive caterwaul" src="file:///C:/Users/candy/Pictures/Pictures/Art/other%20ocs/comic%20project/site/start%20reading.png" width="300"></a>
+ <!--mini comics and mini comics logo-->
+ <div style="background: Bisque;">
+  <img class=" alt="mini_comics" src="file:///C:/Users/candy/Pictures/Pictures/Art/other%20ocs/comic%20project/site/logo_minicomics.png" width="1000"> 
+  <br></br>
+    <a href="pts"><img class=" alt="pts" src="file:///C:/Users/candy/Pictures/Pictures/Art/pts%20icon.png" height="200"></a>
+<a href="gs"><img class=" alt="gs" src="file:///C:/Users/candy/Pictures/Pictures/Art/side%20projects/finished/trimmer/pages/pg1.png" height="200"><a href ="spk"><img class=" alt="spk" src="file:///C:/Users/candy/Pictures/Pictures/Art/side%20projects/finished/uni/pages/pg1.png" height="200"><a href ="oj"><img class=" alt="ocean_jewels" src="file:///C:/Users/candy/Pictures/Pictures/Art/side%20projects/ocean_jewels/pages/pg1.png" height="200">
+<br></br><a href ="pts"><img class=" alt="pts_button" src="file:///C:/Users/candy/Pictures/Pictures/Art/other%20ocs/comic%20project/site/pts%20button.png" width="150"><a href ="gs"><img class=" alt="gs_button" src="file:///C:/Users/candy/Pictures/Pictures/Art/other%20ocs/comic%20project/site/gs%20button.png" width="150"><a href ="spk"><img class=" alt="spk_button" src="file:///C:/Users/candy/Pictures/Pictures/Art/other%20ocs/comic%20project/site/spk%20button.png" width="150"><a href ="oj"><img class=" alt="ocean_jewels_button" src="file:///C:/Users/candy/Pictures/Pictures/Art/other%20ocs/comic%20project/site/oj%20button.png" width="150">
